@@ -24,5 +24,10 @@ setup(
         'curio >=0.4',
         'h11 >=0.6',
         'yarl >=0.7',
-    ]
+    ],
+    extras_require={
+        'test': [
+            'pytest >=3.0.3',
+        ],
+    },
 )

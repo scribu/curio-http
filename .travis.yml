@@ -2,7 +2,7 @@ sudo: false
 language: python
 python: 3.5
 
-install: python setup.py develop
+install: pip install -e .[test]
 
 script: py.test tests.py
 
