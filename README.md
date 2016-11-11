@@ -1,6 +1,6 @@
 # curio-http
 
-A high-level HTTP client powered by [curio](https://github.com/dabeaz/curio).
+A high-level asynchronous HTTP client powered by [curio](https://github.com/dabeaz/curio).
 
 # Important Disclaimer
 
